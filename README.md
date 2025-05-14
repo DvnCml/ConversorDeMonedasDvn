@@ -1,4 +1,4 @@
-# 💱 Conversor de Monedas en Java
+# 🪙 Conversor de Monedas en Java
 
 Ejercicio conversor d monedas alura G8
 
